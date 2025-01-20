@@ -1,0 +1,208 @@
+Uri: https://terminal.jup.ag/main-v3.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\main-v3.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\index.htm
+Content Type: text/html
+
+Uri: https://wenwencoin.com/background-mobile.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\background-mobile.png
+Content Type: image/png
+
+Uri: https://wenwencoin.com/background-web.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\background-web.png
+Content Type: image/png
+
+Uri: https://wenwencoin.com/brand
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\brand.html
+Content Type: text/html
+
+Uri: https://wenwencoin.com/community
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\community.html
+Content Type: text/html
+
+Uri: https://wenwencoin.com/IMG_0653.png
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\IMG_0653.png
+Content Type: image/png
+
+Uri: https://wenwencoin.com/logo.webp
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\logo.webp
+Content Type: image/webp
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fabout-page.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-16
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fabout-page.png&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-3
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fbirdeye.png&w=16&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-15
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fbirdeye.png&w=32&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-2
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fbitstamp.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-23
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fbitstamp.png&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-10
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fbybit_logo.webp&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-17
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fbybit_logo.webp&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-4
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fcoinone-1.webp&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-24
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fcoinone-1.webp&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-11
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fcrypto.com_logo.webp&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-19
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fcrypto.com_logo.webp&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-6
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fgate_logo.webp&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-22
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fgate_logo.webp&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-9
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fhtx_logo.webp&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-21
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fhtx_logo.webp&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-8
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fkraken_logo.webp&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-18
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fkraken_logo.webp&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-5
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fkucoin_logo.webp&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-20
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fkucoin_logo.webp&w=384&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-7
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=%2FThumbsUp-Rework.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2FThumbsUp-Rework.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-13
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fwenlogo.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-14
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=%2Fwenlogo.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-1
+Content Type: image/png
+
+Uri: https://wenwencoin.com/_next/image?url=https:%2F%2Fniwzrpzmgomfotvsyjsy.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fassets%2Fjupiter_logo.webp&w=48&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-25
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/image?url=https:%2F%2Fniwzrpzmgomfotvsyjsy.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Fassets%2Fjupiter_logo.webp&w=96&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\image-12
+Content Type: image/jpeg
+
+Uri: https://wenwencoin.com/_next/static/chunks/framework-23e5cc67eff51936.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\chunks\framework-23e5cc67eff51936.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/chunks/main-68e57755bfc36cbb.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\chunks\main-68e57755bfc36cbb.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/chunks/pages/brand-de47ddd1bc0c10e2.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\chunks\pages\brand-de47ddd1bc0c10e2.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/chunks/pages/community-d70e4bac975a0299.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\chunks\pages\community-d70e4bac975a0299.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/chunks/pages/index-8e12fee0eec91959.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\chunks\pages\index-8e12fee0eec91959.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/chunks/pages/_app-40ddbefe36ed90cd.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\chunks\pages\_app-40ddbefe36ed90cd.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/chunks/webpack-3e8f0b13db06f8df.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\chunks\webpack-3e8f0b13db06f8df.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/css/3de1cbf9da0c69dd.css
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\css\3de1cbf9da0c69dd.css
+Content Type: text/css
+
+Uri: https://wenwencoin.com/_next/static/media/1a142ec2652f2d06-s.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\media\1a142ec2652f2d06-s.woff2
+Content Type: font/woff2
+
+Uri: https://wenwencoin.com/_next/static/media/2053df8159b25386-s.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\media\2053df8159b25386-s.woff2
+Content Type: font/woff2
+
+Uri: https://wenwencoin.com/_next/static/media/64ea2a5aaa4dedd3-s.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\media\64ea2a5aaa4dedd3-s.woff2
+Content Type: font/woff2
+
+Uri: https://wenwencoin.com/_next/static/media/891487401855818d-s.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\media\891487401855818d-s.woff2
+Content Type: font/woff2
+
+Uri: https://wenwencoin.com/_next/static/media/9d9b9cae20d87d18-s.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\media\9d9b9cae20d87d18-s.woff2
+Content Type: font/woff2
+
+Uri: https://wenwencoin.com/_next/static/media/b63e4df112f8dce1-s.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\media\b63e4df112f8dce1-s.woff2
+Content Type: font/woff2
+
+Uri: https://wenwencoin.com/_next/static/media/dba81c1208da12ee-s.p.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\media\dba81c1208da12ee-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://wenwencoin.com/_next/static/qXPsxMZwz23HfodEcWqgH/_buildManifest.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\qXPsxMZwz23HfodEcWqgH\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://wenwencoin.com/_next/static/qXPsxMZwz23HfodEcWqgH/_ssgManifest.js
+File Name: C:\work\Downloaded Web Sites\17.01\dwog\wenwencoin\wenwencoin.com\_next\static\qXPsxMZwz23HfodEcWqgH\_ssgManifest.js
+Content Type: application/javascript
+
